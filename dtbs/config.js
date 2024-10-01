@@ -7,18 +7,18 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254742491666']
-global.ownMain = '254742491666'
-global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
+global.owner = ['263719635497']
+global.ownMain = '263719635497'
+global.NamaOwner = '𝖒𝖗 𝖘𝖍𝖊𝖑𝖑𝖆𝖍 𝖔𝖋𝖈 //
 global.sessionName = 'session'
 global.connect = true // 
-global.namabot = '𝐑𝐏𝐕' //
-global.author = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
-global.packname = '𝐑𝐏𝐕' //
-global.url1 = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e' //global.autoviewstatus = process.env.autoviewstatus || "TRUE"
-global.url2 = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e' //
-global.autoviewstatus = process.env.autoviewstatus || "TRUE"
-global.linkgc = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
+global.namabot = '𝐀𝐂𝐇𝐈𝐁𝐎𝐓 //
+global.author = '𝐌𝐑 𝐒𝐇𝐄𝐋𝐋𝐀𝐇 𝐎𝐅𝐂 //
+global.packname = '𝐍𝐁𝐒 //
+global.url1 = 'https://whatsapp.com/channel/0029VagGhQAFi8xWQMc0R10G' //global.autoviewstatus = process.env.autoviewstatus || "TRUE"
+global.url2 = 'https://whatsapp.com/channel/0029VagGhQAFi8xWQMc0R10G' //
+global.autoviewstatus = process.env.autoviewstatus || "FALSE"
+global.linkgc = 'https://whatsapp.com/channel/0029VagGhQAFi8xWQMc0R10G'
 global.delayjpm = 3500
 //Panel
 global.domain = '' // your admin panel domian
